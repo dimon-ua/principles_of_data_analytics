@@ -61,7 +61,7 @@ The goal is to provide a foundational understanding of data exploration and anal
 ## How to Run
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/principles_of_data_analytics.git
+   git clone https://github.com/your-username/principles_of_data_analytics.git```
 
   ## Navigate to the project directory:
   ```bash
