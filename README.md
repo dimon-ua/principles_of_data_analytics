@@ -90,14 +90,19 @@ The Iris dataset is a classic dataset in machine learning and statistics. It con
 The project provides insights into the Iris dataset, including:
 
 - Statistical summaries of each feature.
+
 - Visualizations of feature distributions and relationships.
+
 - Correlation analysis and regression modeling.
 
 ## Sample Visualizations
 
 - Histograms of feature distributions.
+
 - Scatter plots with regression lines.
+
 - Heatmaps of feature correlations.
+
 - Pairplots showing relationships between all features.
 
 ## Acknowledgments
