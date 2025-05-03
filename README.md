@@ -70,3 +70,38 @@ The Iris dataset is a classic dataset in machine learning and statistics. It con
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/your-username/principles_of_data_analytics.git
+
+2. Navigate to the project directory:
+```bash
+   cd principles_of_data_analytics   
+   ```
+
+3. Install the required dependencies:
+```bash
+   pip install -r requirements.txt 
+   ```
+
+4. Open the Jupyter Notebook:
+```bash
+   jupyter notebook tasks.ipynb
+   ```
+
+## Results
+The project provides insights into the Iris dataset, including:
+
+-Statistical summaries of each feature.
+-Visualizations of feature distributions and relationships.
+-Correlation analysis and regression modeling.
+
+## Sample Visualizations
+
+-Histograms of feature distributions.
+-Scatter plots with regression lines.
+-Heatmaps of feature correlations.
+-Pairplots showing relationships between all features.
+
+## Acknowledgments
+The Iris dataset is publicly available and widely used for educational purposes.
+Libraries like `scikit-learn`, `numpy`, `matplotlib`, and `seaborn` were instrumental in this project.
+
+Feel free to explore the notebook and adapt the code for your own data analysis projects!
